@@ -1,1 +1,1 @@
-web: SkinPeek.js
+web: npm start
