@@ -755,5 +755,6 @@ const handleError = async (e, interaction) => {
 
 export const startBot = () => {
     console.log("Logging in...");
-    client.login(config.token);
+    // client.login(config.token);
+    client.login(process.env.bot_token)
 }
