@@ -10,5 +10,16 @@
     "fuse.js": "^6.5.3",
     "node-cron": "^3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrarian04/SkinPeek.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/afrarian04/SkinPeek/issues"
+  },
   "type": "module"
 }
